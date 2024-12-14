@@ -12,7 +12,7 @@ AutoHotkey 2.0, Steam, Warframe __linked__ to Steam account.
 ## Launch:
 - Download release.
 - WF_DCI_EN.exe and add to autostart if needed. (EN suffix - means that this version is for the English version of the game. If your game is in Russian use RU).
-
+#
 ## Using source:
 - Download and Install AHK 2.0
 - Download and unarchive Warframe-Daily-Check-In.zip
