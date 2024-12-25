@@ -2,7 +2,6 @@
 	
 ; --- Variables and directives
 #Requires AutoHotkey 2
-#Warn  
 #SingleInstance
 CoordMode "Pixel", "Window"
 
