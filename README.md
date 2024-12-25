@@ -10,7 +10,7 @@ Simple ahk script to launch and collect rewards in Warframe. [Инструкци
 - Support for Russian/English versions of the game
 
 ## Launch:
-- Instal AutoHotkey
+- Install AutoHotkey
 - [Download](https://github.com/MotiasNotMe/Warframe-Daily-Check-In/releases) and unarchive Warframe-Daily-Check-In-main.zip
 - Run Warframe_Daily_Check_In_EN.ahk and add to autostart if needed. (EN suffix - means that this version is for the English version of the game. If your game is in Russian use RU).
 
